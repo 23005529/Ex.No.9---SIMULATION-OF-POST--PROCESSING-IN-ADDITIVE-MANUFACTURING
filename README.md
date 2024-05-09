@@ -47,8 +47,10 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+![image](https://github.com/23005529/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/139842207/8e4212af-f77f-4187-b2df-3d7232c219c1)
+
+### Name: ALIYA SHEEMA 
+### Register Number: 212223230011
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
